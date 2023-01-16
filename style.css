@@ -7,11 +7,14 @@ html, body{
 }
 
 .button{
+    width: 66px;
     padding: 20px;
     margin: 0 3px;
-    border: 2px solid black;
-    border-radius: 9px;
+    border: 2px solid greenyellow;
+    border-radius: 11px;
     cursor: pointer;
+    color: white;
+    background-color: blueviolet;
 }
 
 .row{
@@ -19,9 +22,10 @@ html, body{
 }
 
 .row input{
+    width: 221px;
     font-size: 15px;
     margin: 0;
     padding: 10px 38px;
-    border: 2px solid black;
+    border: 2px solid blueviolet;
     border-radius: 5px;
 }
